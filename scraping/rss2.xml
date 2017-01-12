@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>http://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2017</copyright>
+ <lastBuildDate>Sun, 08 Jan 2017 15:52:01 +0900</lastBuildDate>
+ <image>
+  <url>http://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>http://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>ネット空間と読書スタイルの変化への対応～2017年の電子出版 ── 新春特別企画</title>
+  <link>http://gihyo.jp/design/column/newyear/2017/ebook-business-prospect</link>
+  <description>このコラムも今回で7回目。2016年の状況を振り返りつつ，2017年，電子出版分野はどうなるのか，実際に専門書・専門雑誌の電子出版事業に関わった立場から考察してみます。</description>
+  <pubDate>Fri, 06 Jan 2017 18:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/column/newyear">新春特別企画</category>
+  <guid>http://gihyo.jp/design/column/newyear/2017/ebook-business-prospect</guid> 
+  <author>馮富久</author>
+ </item>
+ <item>
+  <title>2017年1月6日号　『ドライバレス』でのプリンタ対応・UWN#492・493 ── Ubuntu Weekly Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/ubuntu-topics/201701/06</link>
+  <description>プリンタを買い換えるたびに「このプリンタはUbuntuから使えるだろうか」といった悩みに向き合う必要があります。こうした状況が，もう少しで変化するかもしれません。</description>
+  <pubDate>Fri, 06 Jan 2017 11:17:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/ubuntu-topics/201701/06</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>2017年1月4日　Linus，2017年は元日に仕事はじめ，Linux 4.10-rc2をリリース ── Linux Daily Topics</title>
+  <link>http://gihyo.jp/admin/clip/01/linux_dt/201701/04</link>
+  <description>Linus Torvaldsは1月1日，Linuxカーネルの次期バージョン「Linux 4.10-rc2」を公開した。12月25日に公開したrc1から1週間後のアップデートとなる。</description>
+  <pubDate>Wed, 04 Jan 2017 09:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>http://gihyo.jp/admin/clip/01/linux_dt/201701/04</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>GitLabのこれまでとこれから ── 新春特別企画</title>
+  <link>http://gihyo.jp/dev/column/newyear/2017/gitlab</link>
+  <description>近年，GitHubを利用したソーシャルコーディングが注目を集めています。そこで本稿では，GitHubの競合として注目が高まっているGitLabについて紹介します。</description>
+  <pubDate>Tue, 03 Jan 2017 10:34:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/column/newyear">新春特別企画</category>
+  <guid>http://gihyo.jp/dev/column/newyear/2017/gitlab</guid> 
+  <author>佐藤洋行</author>
+ </item>
+ <item>
+  <title>2017年のChat bot ── 新春特別企画</title>
+  <link>http://gihyo.jp/dev/column/newyear/2017/chat-bot-prospect</link>
+  <description>昨年はChat Botという分野が大きく前進した年となりました。今年もさらなる発展を遂げるであろうChat Botについて，本稿では取り上げてみます。</description>
+  <pubDate>Tue, 03 Jan 2017 10:33:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/column/newyear">新春特別企画</category>
+  <guid>http://gihyo.jp/dev/column/newyear/2017/chat-bot-prospect</guid> 
+  <author>田中洋一郎</author>
+ </item>
+ <item>
+  <title>LibreOffice／Apache OpenOfficeの2016年振り返りと2017年 ── 新春特別企画</title>
+  <link>http://gihyo.jp/lifestyle/column/newyear/2017/libo-aoo-prospect</link>
+  <description>LibreOfficeの2016年は，相変わらずアグレッシブに開発が進み，見えるところ，見えないところでさまざまな変化がありました。また昨年は，久しぶりにApache OpenOfficeが話題にのぼりました。</description>
+  <pubDate>Tue, 03 Jan 2017 10:32:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/column/newyear">新春特別企画</category>
+  <guid>http://gihyo.jp/lifestyle/column/newyear/2017/libo-aoo-prospect</guid> 
+  <author>あわしろいくや</author>
+ </item>
+ <item>
+  <title>2016ー2017のApache Sparkに起こったこと／起こること ── 新春特別企画</title>
+  <link>http://gihyo.jp/dev/column/newyear/2017/spark-future-past</link>
+  <description>本稿では，Apache Sparkバージョン2.0の特徴について，バージョン1.6以前も振り返りつつおさらいし，2017年にどのような取り組みがなされるかについてお伝えします。</description>
+  <pubDate>Mon, 02 Jan 2017 10:46:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/column/newyear">新春特別企画</category>
+  <guid>http://gihyo.jp/dev/column/newyear/2017/spark-future-past</guid> 
+  <author>下垣徹，岩崎正剛，関堅吾，鯵坂明</author>
+ </item>
+ <item>
+  <title>2017年のWebアクセシビリティ ── 新春特別企画</title>
+  <link>http://gihyo.jp/design/column/newyear/2017/web-accessibility-prospect</link>
+  <description>あけましておめでとうございます。株式会社ミツエーリンクスの黒澤剛志です。本稿では，昨年に引き続いて，2017年のWebアクセシビリティの短期的な予測を寄稿させていただきます。</description>
+  <pubDate>Mon, 02 Jan 2017 10:40:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/column/newyear">新春特別企画</category>
+  <guid>http://gihyo.jp/design/column/newyear/2017/web-accessibility-prospect</guid> 
+  <author>黒澤剛志</author>
+ </item>
+ <item>
+  <title>2017年のWeb Components ── 新春特別企画</title>
+  <link>http://gihyo.jp/dev/column/newyear/2017/web-components-prospect</link>
+  <description>あけましておめでとうございます。よういちろうです。ウェブをさらに進化させるために，現在も数多くの試みが行われています。その中で，本稿ではWeb Componentsを取り上げてみます。</description>
+  <pubDate>Mon, 02 Jan 2017 10:38:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/column/newyear">新春特別企画</category>
+  <guid>http://gihyo.jp/dev/column/newyear/2017/web-components-prospect</guid> 
+  <author>田中洋一郎</author>
+ </item>
+ <item>
+  <title>2017年のCI/CDの動向 ── 新春特別企画</title>
+  <link>http://gihyo.jp/dev/column/newyear/2017/continuous-integration-and-continuous-delivery</link>
+  <description>ソフトウェア開発そのもののあり方は変化を続けています。本稿では，少し大きな視点から継続的インテグレーション（CI）・継続的デリバリ（CD）の最近の動向を紹介します。</description>
+  <pubDate>Mon, 02 Jan 2017 10:37:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/column/newyear">新春特別企画</category>
+  <guid>http://gihyo.jp/dev/column/newyear/2017/continuous-integration-and-continuous-delivery</guid> 
+  <author>川口耕介</author>
+ </item>
+ <item>
+  <title>2017年のHadoopとその仲間たち―開発コミュニティから見た動向 ── 新春特別企画</title>
+  <link>http://gihyo.jp/dev/column/newyear/2017/hadoop-ecosystem</link>
+  <description>あけましておめでとうございます。今年は特に，Apache Hadoopの開発コミュニティ寄りの視点から，動向や展望についてお伝えしたいと思います。</description>
+  <pubDate>Sun, 01 Jan 2017 00:00:03 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/column/newyear">新春特別企画</category>
+  <guid>http://gihyo.jp/dev/column/newyear/2017/hadoop-ecosystem</guid> 
+  <author>下垣徹，岩崎正剛，関堅吾，鯵坂明</author>
+ </item>
+ <item>
+  <title>2017年のAPIの動向 ── 新春特別企画</title>
+  <link>http://gihyo.jp/dev/column/newyear/2017/api-prospect</link>
+  <description>新年明けましておめでとうございます。zigorouです。 今回も昨年の特集に引き続き，2016年を振り返りながら2017年のAPIに関わる技術動向などを予想していきます。</description>
+  <pubDate>Sun, 01 Jan 2017 00:00:02 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/column/newyear">新春特別企画</category>
+  <guid>http://gihyo.jp/dev/column/newyear/2017/api-prospect</guid> 
+  <author>山口徹</author>
+ </item>
+ <item>
+  <title>AWS，サーバレス，コンテナ，マシンラーニング …2017年のクラウドを占う ── 新春特別企画</title>
+  <link>http://gihyo.jp/admin/column/newyear/2017/cloud-computing-trends</link>
+  <description>2016年の国内外での取材から見えてきた2017年のクラウドのトレンドを，非常にざっくりとした所感ではありますが，いくつかのテーマに分けてご紹介したいと思います。</description>
+  <pubDate>Sun, 01 Jan 2017 00:00:01 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/column/newyear">新春特別企画</category>
+  <guid>http://gihyo.jp/admin/column/newyear/2017/cloud-computing-trends</guid> 
+  <author>五味明子</author>
+ </item>
+ <item>
+  <title>2017年のWeb標準 ── 新春特別企画</title>
+  <link>http://gihyo.jp/design/column/newyear/2017/web-standards-prospect</link>
+  <description>株式会社ミツエーリンクスの渡邉卓です。昨年の「2016年のWeb標準」と同様に，2017年もWebコンテンツのフロントエンド設計および実装に関連した各種標準や，周辺領域の動きに関する短期的な予測を寄稿させていただきます。</description>
+  <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/column/newyear">新春特別企画</category>
+  <guid>http://gihyo.jp/design/column/newyear/2017/web-standards-prospect</guid> 
+  <author>渡邉卓</author>
+ </item>
+ <item>
+  <title>第3回　常にそこにいろ ── 継続は力なり―大器晩成エンジニアを目指して</title>
+  <link>http://gihyo.jp/dev/serial/01/continue-power/0003</link>
+  <description>将来アメリカで働きたいと思っている若い人たちに会うとよく聞かれる質問がある。</description>
+  <pubDate>Fri, 30 Dec 2016 10:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/continue-power">継続は力なり―大器晩成エンジニアを目指して</category>
+  <guid>http://gihyo.jp/dev/serial/01/continue-power/0003</guid> 
+  <author>ひげぽん</author>
+ </item>
+ <item>
+  <title>最終回　プログラマに人気のプロ向けキーボード―Happy Hacking Keyboard ── コレクターが独断で選ぶ！ 偏愛キーボード図鑑</title>
+  <link>http://gihyo.jp/dev/serial/01/keyboard-picturebook/0014</link>
+  <description>当連載は，今回で最終回です。最後に紹介するキーボードは，Happy Hacking Keyboardです。</description>
+  <pubDate>Thu, 29 Dec 2016 10:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/keyboard-picturebook">コレクターが独断で選ぶ！ 偏愛キーボード図鑑</category>
+  <guid>http://gihyo.jp/dev/serial/01/keyboard-picturebook/0014</guid> 
+  <author>濱野聖人</author>
+ </item>
+ <item>
+  <title>第145回　sigur rós - route one，Diesel - Joggjeans Responsive Denim，Paper Planes ── いま，見ておきたいウェブサイト</title>
+  <link>http://gihyo.jp/design/serial/01/website-pickup/0145</link>
+  <description>冬らしい寒さが当たり前となり，今年の猛反省と来年の目標を考え始める今日このごろ，皆様いかがお過ごしでしょうか。今回も個人的に感じた，素晴らしいサイトの特徴をいくつかお話したいと思います。</description>
+  <pubDate>Wed, 28 Dec 2016 10:50:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/design/serial/01/website-pickup">いま，見ておきたいウェブサイト</category>
+  <guid>http://gihyo.jp/design/serial/01/website-pickup/0145</guid> 
+  <author>Lançamento</author>
+ </item>
+ <item>
+  <title>第452回　Ubuntu 16.10リリース記念オフラインミーティング参加レポート ── Ubuntu Weekly Recipe</title>
+  <link>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0452</link>
+  <description>2016年12月17日に「Ubuntu 16.10リリース記念オフラインミーティング16.12」が開催されました。今回はこのイベントについて，一般参加した筆者がレポートします。</description>
+  <pubDate>Wed, 28 Dec 2016 10:47:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>http://gihyo.jp/admin/serial/01/ubuntu-recipe/0452</guid> 
+  <author>よこざわかおり</author>
+ </item>
+ <item>
+  <title>第3回　来るべきVRの世界―立体視の歴史，ゲームの目指すべき方向 ── ゲームをおもしろくするコツ</title>
+  <link>http://gihyo.jp/lifestyle/serial/01/game-interesting-knack/0003</link>
+  <description>「今年（2016年）はVR（Virtual Reality）元年である」という言葉をよく聞きます。</description>
+  <pubDate>Wed, 28 Dec 2016 10:30:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/lifestyle/serial/01/game-interesting-knack">ゲームをおもしろくするコツ</category>
+  <guid>http://gihyo.jp/lifestyle/serial/01/game-interesting-knack/0003</guid> 
+  <author>遠藤雅伸</author>
+ </item>
+ <item>
+  <title>第13回　小型メカニカルキーボード―BLACK PAWN &amp; Majestouch MINILA ── コレクターが独断で選ぶ！ 偏愛キーボード図鑑</title>
+  <link>http://gihyo.jp/dev/serial/01/keyboard-picturebook/0013</link>
+  <description>今回はHappy Hacking Keyboard（以下，HHKB）のような形状の小型メカニカルキーボードを紹介します。</description>
+  <pubDate>Tue, 27 Dec 2016 10:20:00 +0900</pubDate>
+  <category domain="http://gihyo.jp/dev/serial/01/keyboard-picturebook">コレクターが独断で選ぶ！ 偏愛キーボード図鑑</category>
+  <guid>http://gihyo.jp/dev/serial/01/keyboard-picturebook/0013</guid> 
+  <author>濱野聖人</author>
+ </item>
+</channel>
+</rss>
